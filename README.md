@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # What's new in TensorFlow 2.0 abarajame la baniera nena
+=======
+# What's new in TensorFlow 2.0 cambios
+>>>>>>> 4c6f68714b0e70f586583234777ff9c0759035aa
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
